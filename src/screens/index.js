@@ -5,6 +5,7 @@ export { default as Register } from './auth/Register/Register';
 // Dashboard Screens
 export { default as Home } from './dashboard/Home/Home';
 export { default as Balance } from './dashboard/Balance/Balance';
+export { default as Dashboard } from './dashboard/Dashboard/Dashboard';
 
 // Transaction Screens
 export { default as TransactionList } from './transactions/TransactionList/TransactionList';
@@ -28,3 +29,4 @@ export { default as Notifications } from './settings/Notifications/Notifications
 // Onboarding Screens
 export { default as Welcome } from './onboarding/Welcome/Welcome';
 export { default as Features } from './onboarding/Features/Features';
+export { default as Landing } from './onboarding/Landing/Landing';
